@@ -1,6 +1,6 @@
 # Night-Drive
 A 3D night-driving game that runs in the browser. Play it in landscape on a phone, or on a computer with a keyboard.
-Play it: https://Kelvo618.github.io/night-drive
+Play it: https://Kelvo618.github.io/Night-Drive
 Game modes
 Taxi shift (3 minutes)
 Pick up passengers and drop them off to earn fares.
